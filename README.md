@@ -10,8 +10,6 @@ With a background in graphic design, I bring a creative perspective to developme
 
 ### Tech Stack
 
-### Tech Stack
-
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
